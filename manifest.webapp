@@ -1,0 +1,14 @@
+{
+    "version" : "1.0",
+    "name" : "Tasks",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+    "launch_path" : "/index.html",
+    "developer" : {
+        "name" : "Marko Aleksic",
+        "url" : "https://github.com/psybaron/firstApp"
+    },
+    "icons" : {
+        "128" : "/icon.png"
+    },
+    "default_locale" : "en"
+}
